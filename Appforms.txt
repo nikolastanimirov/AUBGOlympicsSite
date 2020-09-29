@@ -1,0 +1,48 @@
+﻿===========START=========== 2019-09-25 04:10:46pm
+1. Name: 
+Nikola 
+2. Last name: 
+
+ 	
+Stanimirov
+
+3. Email: 
+
+ 	
+nrs160@olympics.com
+
+4. For which department you are applying? 
+
+ 	
+IT
+
+5. What is your current academic standing? 
+
+ 	
+Sophomore
+
+6. What is your current majors or indended major? 
+
+ 	
+COS / INF
+
+7. Are you part of any other club in AUBG? 
+
+ 	
+OLYMPICS BBY
+
+8. If you could magically become really good at a certain sport, which one would you choose and why?? 
+
+ 	
+chess
+
+9. A team is usually working at best if it has people that play 4 different roles - a strong leader, the informal leader, the mediator, the punctual executor. Which character fits you the most ?
+democracy wins
+
+10. Tell us in no more than 2 words what do you think we do?
+kebabcheta
+
+11. How would you keep the fire burning without turning into ashes?
+with fuel
+
+============END============

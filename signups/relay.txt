@@ -1,0 +1,7 @@
+===========START===========
+Team: Black Jaguars
+Player 1: Ruzbe Asadullayev raa130@aubg.edu
+Player 2: Gennady Solovey 
+Player 3: Alisher Kadirov 
+Player 4: Ivan Navodnyy 
+============END============
